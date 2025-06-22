@@ -20,9 +20,9 @@ Applicable to:
 
 ## 👤 Author
 
-Created by **Shatrugna Vad**  
-Enterprise Architect | Metadata Strategy | Data Governance | USDA & Deloitte Experience  
-[LinkedIn](https://www.linkedin.com/in/your-link)
+Created by **Sha Vadwalas**  
+Director/Principal Enterprise Architect | Metadata Strategy | Data Governance | USDA & Deloitte Experience  
+[LinkedIn](https://www.linkedin.com/in/sha-v-0557a118/)
 
 ## 📜 License
 
