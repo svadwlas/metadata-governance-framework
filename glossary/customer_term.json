@@ -1,1 +1,10 @@
-
+{
+  "term": "Customer",
+  "definition": "An individual or organization that purchases goods or services from the company.",
+  "related_terms": [
+    "Client",
+    "Account"
+  ],
+  "steward": "data.governance@company.com",
+  "domain": "CRM"
+}
