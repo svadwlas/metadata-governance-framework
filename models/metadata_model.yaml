@@ -1,0 +1,23 @@
+dataset:
+  classification: Confidential
+  description: Monthly transactions by customer, including amounts and categories.
+  name: Customer Transactions
+  owner: data.steward@company.com
+  schema:
+    columns:
+    - description: Unique customer identifier
+      name: customer_id
+      type: string
+    - description: Date of transaction
+      name: transaction_date
+      type: date
+    - description: Transaction amount in USD
+      name: amount
+      type: float
+    - description: Transaction category
+      name: category
+      type: string
+  tags:
+  - finance
+  - transactions
+  - customer-data

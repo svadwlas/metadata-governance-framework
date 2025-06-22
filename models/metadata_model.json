@@ -1,1 +1,37 @@
-
+{
+  "dataset": {
+    "name": "Customer Transactions",
+    "description": "Monthly transactions by customer, including amounts and categories.",
+    "owner": "data.steward@company.com",
+    "classification": "Confidential",
+    "tags": [
+      "finance",
+      "transactions",
+      "customer-data"
+    ],
+    "schema": {
+      "columns": [
+        {
+          "name": "customer_id",
+          "type": "string",
+          "description": "Unique customer identifier"
+        },
+        {
+          "name": "transaction_date",
+          "type": "date",
+          "description": "Date of transaction"
+        },
+        {
+          "name": "amount",
+          "type": "float",
+          "description": "Transaction amount in USD"
+        },
+        {
+          "name": "category",
+          "type": "string",
+          "description": "Transaction category"
+        }
+      ]
+    }
+  }
+}
